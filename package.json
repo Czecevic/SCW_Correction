@@ -1,0 +1,27 @@
+{
+  "name": "scw_correction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./Toys/Index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Czecevic/SCW_Correction.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Czecevic/SCW_Correction/issues"
+  },
+  "homepage": "https://github.com/Czecevic/SCW_Correction#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "node-fetch": "2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
